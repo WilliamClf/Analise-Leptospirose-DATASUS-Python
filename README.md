@@ -26,7 +26,7 @@ Script que processa e consolida múltiplos arquivos CSV anuais em um único data
  - Linhas mostrando a tendência de casos por estado ao longo dos anos.
 <img width="900" height="500" alt="CasosTotaisLeptospirose2014-2023" src="https://github.com/user-attachments/assets/e0fec542-ede8-4e80-9a37-3e23e7229c06" />
 
-##📊 Gráfico 2: Comparação por Estado
+## 📊 Gráfico 2: Comparação por Estado
 - Barras agrupadas comparando os três estados ano a ano.
 <img width="1240" height="662" alt="Evolução dos casos de Leptospirose2014-2023" src="https://github.com/user-attachments/assets/fc820958-6934-440a-a0f2-94eece523c42" />
  
